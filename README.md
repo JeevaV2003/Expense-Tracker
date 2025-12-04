@@ -132,5 +132,3 @@ To enable email notifications for new expenses, you need to configure EmailJS.
 -   **Currency**: The default currency is set to Indian Rupee (₹).
 
 ---
-
-Made with ❤️ using React & Vite.
